@@ -8,9 +8,9 @@
 
 **Élève-Ingénieur TIC @ Sup'Com (Tunisie) — Spécialité IA, Data & MLOps**
 
-![Profile Views](https://komarev.com/ghpvc/?username=fz-hazem&label=Profile+Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/fz-hazem?label=Followers&style=flat-square&logo=github&color=181717)
-
+<a href="https://github.com/fz-hazem?tab=followers"><img src="https://img.shields.io/badge/GitHub-fz--hazem-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/fz-hazem?tab=repositories"><img src="https://img.shields.io/badge/Focus-AI%20%26%20MLOps-0e75b6?style=flat-square&logo=openai&logoColor=white" alt="Focus" /></a>
+<a href="https://linkedin.com/in/hazem-fezai"><img src="https://img.shields.io/badge/LinkedIn-Hazem%20Fezai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 ---
